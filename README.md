@@ -1,3 +1,3 @@
-RAM Tester for 4116, 4164 and 4532 Chips
+RAM Tester for 4116, 4164 and 41256 Chips (and some others... tbc)
 
-Ian Cudlip 2021 grandoldian at gmail.com
+Based on code by Noel Llopis and Ian Cudlip
